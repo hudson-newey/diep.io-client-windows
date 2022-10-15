@@ -1,0 +1,30 @@
+---------------------
+   Grathium Client
+---------------------
+Codded By:  Grathium
+
+movement - blink,speed
+misc - auto reconect,auto fire
+combat - aim assist,aim bot
+
+blink:
+keybind [y]
+stops some outward going packets to make you teleport and make your bullets invisable!
+Warning;  can sometimes cause lag, not recomended for slow networks/computers
+
+speed:
+makes you go 5% faster when going upwards on the y axsis of the map.
+
+auto reconect:
+automaticly reconects you to the game once you die, can sometimes make you keep your score!
+
+auto fire:
+uses a inbuilt command to auto fire the gun.
+
+aim assist:
+if close enough this will automaticly point you in the right (sort of) direction.
+Note;  in older versions this can make you rapid fire!
+
+aim bot:
+keybind [c]
+a bot that will automaticly aim for you making your life MUCH easier!
